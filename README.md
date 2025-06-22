@@ -1,2 +1,1 @@
-# amininfo
-Homepage
+# aminnali.net
